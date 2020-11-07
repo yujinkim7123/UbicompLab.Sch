@@ -1,0 +1,13 @@
+0.001063 : Error creating file
+
+0.001895 : ReadFile returned error: 핸들이 잘못되었습니다.
+
+0.002889 : do_single_read failed
+
+0.002889 : io_read() returned negative: 
+
+0.003887 : Reader is bailing out
+
+0.004883 : call to WriteFile failed -- closing file -- 핸들이 잘못되었습니다.
+
+0.005880 : Failed to write all bytes to module, expected bytes written: 4, actual bytes written: 0

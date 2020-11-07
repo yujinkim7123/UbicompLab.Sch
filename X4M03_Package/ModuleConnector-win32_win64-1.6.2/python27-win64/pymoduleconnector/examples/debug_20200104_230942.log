@@ -1,0 +1,12 @@
+1.510952 : failed to retrieve parameter file from module
+
+1.512947 : failed to retrieve profile id from module
+
+83.224419 : GetOverlappedResult return error: 스레드 종료 또는 응용 프로그램 요청 때문에 I/O 작업이 취소되었습니다.
+
+83.225418 : do_single_read failed
+
+83.227409 : io_read() returned negative: 
+
+83.230400 : Reader is bailing out
+
